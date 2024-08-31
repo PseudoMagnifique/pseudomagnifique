@@ -12,8 +12,8 @@ Welcome to me profile! This is where I code my hidden shenanigans and public mac
 
 ### 💻📖 My latest blog posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
 
 <!--
 **PseudoMagnifique/pseudomagnifique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
