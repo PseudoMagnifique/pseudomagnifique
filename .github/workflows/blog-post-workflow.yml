@@ -6,7 +6,7 @@ on:
     - cron: "0 */1 * * *"
 jobs:
   blog:
-    runs-on: ubuntu-latest
+    runs-on: macos-14
     name: Fetch and Generate Blog Posts
     steps:
       - uses: actions/checkout@v3
