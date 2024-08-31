@@ -6,7 +6,7 @@ Welcome to me profile! This is where I code my hidden shenanigans and public mac
 - 🌱 Learning NeoVim and C++
 - 📖 Bloging in my mathematical computer-ish nerdy [lair](https://pseudomagnifique.github.io/)
 - 📫 How to reach me: <a href="/https://pseudomagnifique.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="my blog RSS feed: https://pseudomagnifique.github.io/feed.xml" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my instagram account: pseudomagnifique" height="30" width="40" /></a>
+<a href="https://instagram.com/_pseudomagnifique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my instagram account: _pseudomagnifique" height="30" width="40" /></a>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pseudomagnifique" align="center" alt="pseudomagnifique's github trophies" /></a>
 
