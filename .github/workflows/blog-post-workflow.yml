@@ -1,14 +1,21 @@
-name: Latest blog post workflow
-on: 
-    schedule:
-        - cron: '0 * * * *'
-jobs: 
-    update-readme-with-blog: 
-        name: Update this repo's README with latest blog posts
-        runs-on: macos-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://pseudomagnifique.github.io/feed.xml"
+name: Generate Blog List
+
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
+jobs:
+  blog:
+    runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
+    steps:
+      - uses: actions/checkout@v3
+      - name: GitHub Readme Blog Post Action
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
+        with:
+          feed_urls: "https://pseudomagnifique.github.io/feed.xml"
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true
