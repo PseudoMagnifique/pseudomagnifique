@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudomagnifique&" alt="pseudomagnifique's streak stats" /></p>
+### My stats
+<img align="center" alt="pseudomagnifique's github stats" src="https://github-readme-stats-pseudomagnifiques-projects.vercel.app/api?username=pseudomagnifique&theme=dracula&hide_border=true&show_icons=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudomagnifique&theme=dracula&hide_border=true" alt="pseudomagnifique's streak stats" />
