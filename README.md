@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 -->
 
 ### My stats
-<img align="center" alt="pseudomagnifique's github stats" src="https://github-readme-stats-pseudomagnifiques-projects.vercel.app/api?username=pseudomagnifique&theme=dracula&hide_border=true&show_icons=true" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pseudomagnifique&theme=dracula&hide_border=true" alt="pseudomagnifique's streak stats" />
+<img align="center" alt="pseudomagnifique's github stats" src="https://github-readme-stats-pi-inky-84.vercel.app/api?username=pseudomagnifique&theme=dracula&hide_border=true&show_icons=true" />
+<img align="center" alt="pseudomagnifique's github stats" src="https://github-readme-stats-pi-inky-84.vercel.app/api/top-langs?username=pseudomagnifique&theme=dracula&hide_border=true&show_icons=true" />
