@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to me profile! This is where I code my hidden shenanigans and public machinations 👀
+Welcome to my profile! This is where I code my hidden shenanigans and public machinations 👀
 
 ```python
 class Nerd:
