@@ -14,7 +14,7 @@ class Nerd:
   def languages(self, *args):
     self.languages = args
 
-me = Person("pseudomagnifique", "They/them")
+me = Nerd("pseudomagnifique", "They/them")
 me.skills("LaTeX", "Illustrator", "Photoshop", "git")
 me.languages("Python", "R", "MATLAB", "HTML", "CSS")
 ```
