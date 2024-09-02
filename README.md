@@ -33,8 +33,8 @@ me.languages("Python", "R", "MATLAB", "HTML", "CSS")
 - 🌱 Learning NeoVim and C++
 - 📖 Bloging in my mathematical computer-ish nerdy [lair](https://pseudomagnifique.github.io/)
 - 🤔 I’m looking for help with understanding how to make a website responsive
-- 📫 How to reach me: <a href="https://pseudomagnifique.github.io/feed.xml"><img src="https://badgen.net/static/RSS/Feed/orange?icon=rss" alt="RSS feed" /></a>
-<a href="https://instagram.com/_pseudomagnifique"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="my instagram account: _pseudomagnifique" /></a>
+- 📫 How to reach me: <a href="https://pseudomagnifique.github.io/feed.xml"><img src="https://img.shields.io/badge/RSS_Feed-orange?style=plastic&logo=RSS&logoColor=orange&label=Pseudo's%20Math%20Lair" alt="" /></a>
+<a href="https://instagram.com/_pseudomagnifique"><img src="https://img.shields.io/badge/Instagram-purple?style=social&logo=Instagram&label=_pseudomagnifique" alt="my instagram account: _pseudomagnifique" /></a>
 
 <div align="center">
   <img align="center" alt="pseudomagnifique's github stats" src="https://github-readme-stats-pi-inky-84.vercel.app/api?username=pseudomagnifique&theme=dracula&hide_border=true&show_icons=true" />
