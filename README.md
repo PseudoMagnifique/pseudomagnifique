@@ -29,7 +29,7 @@ me.languages("Python", "R", "MATLAB", "HTML", "CSS")
 </p>
 -->
 
-- 🔭 Working on [Game of Life](https://github.com/PseudoMagnifique/game-of-life/tree/main?tab=readme-ov-file) and configuring NeoVim
+- 🔭 Working on personal projects and configuring NeoVim
 - 🌱 Learning NeoVim and C++
 - 📖 Bloging in my mathematical computer-ish nerdy [lair](https://pseudomagnifique.github.io/)
 - 🤔 I’m looking for help with understanding how to make a website responsive
